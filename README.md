@@ -1,6 +1,8 @@
-# MilSpec Armor Pack Mod
+![Cover Image](https://staticdelivery.nexusmods.com/mods/1151/images/headers/87488_1725795557.jpg)
 
 **The MilSpec Armor Pack** adds a range of modern military gear to Fallout 4, from body armor to tactical accessories. This pack is designed to bring a touch of realism with high-quality military gear made by the team over at 3D Military Asset.
+
+This was a collaborative project between myself, SerielNuggetEater and Altyn Guy (Formally known as: Guy In Chechnya)
 
 ### Features
 - Modern military armor inspired by real-world equipment
@@ -14,6 +16,12 @@ Find detailed information about each armor piece, installation instructions, and
 ### Requirements
 - Fallout 4
 - Mod Organizer 2 (optional but recommended)
+- [FallUI Workbench](https://www.nexusmods.com/fallout4/mods/49300) (optional but highly recommended)
+
+### Patches
+- [FIS Modern Age](https://www.nexusmods.com/fallout4/mods/66093)
+- [Modern Milspec Raiders](https://www.nexusmods.com/fallout4/mods/87756) - Made by [lance5](https://www.nexusmods.com/fallout4/mods/87756)
+- [Tactical Surplus Expansion Pack](https://www.nexusmods.com/fallout4/mods/87724) - Made by [sophianexus](https://www.nexusmods.com/fallout4/users/84237638)
 
 ### Mod Manager Installation Steps
 1. Download the mod from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/87488) via the **Mod Manager Download** buttone.
@@ -28,10 +36,9 @@ Find detailed information about each armor piece, installation instructions, and
 
 **Note:** Be sure to back up your save files before installing new mods.
 
-# Features
+# Featured Armor Items
 
-### Armor Types
-**Uniforms**
+![Uniforms Banner](https://staticdelivery.nexusmods.com/mods/1151/images/87488/87488-1725803724-414459968.png)
    - AEM01 Tactical Combat Hoodie |  Summer Variant
       - Variants: Hood Down | Hood Up
       - Materials: Base (Gray) | Blue | Gray Camo | Multicam | Ranger Green | Tan
@@ -59,15 +66,17 @@ All uniforms come with the same 2 pants options
       - Materials: The Gen4 Pants share materials with the base uniform same goes for the L9 Combat Pants
       - Kneepads: Various Material options | Removed
       - They all come with Croatian Military Boots for shoes
+# 
+![Armor Banner](https://staticdelivery.nexusmods.com/mods/1151/images/87488/87488-1725803728-2069430519.png)
 
-**Armor**
    - Crye Precision JPC 2.0 SWIMMER CUT Vest
       - Variants: Grenadier | JTAC | Rifleman | LMG
       - Each Vest loadout comes with the following magazine options(not including the LMG loadout) AR | AK | AKM | AS VAL | Groza | SR3M
       - Russian Magazines Provided by SpongebobSlavicPants
       - Materials: Multicam | Black | Coyote Brown | Tigar Stripe
+# 
+![Helmets Banner](https://staticdelivery.nexusmods.com/mods/1151/images/87488/87488-1725803749-1421535059.png)
 
-**Helmets**
    - Team Wendy EXFIL Ballistic Helmet
       - Variants: Same variants available to the GPNVG + just a Wilcox Mount option
    - Toggle-able Accessories
@@ -83,8 +92,9 @@ All uniforms come with the same 2 pants options
    - MICH Helmet Low Cut
       - Variants: Loadout 1  | Loadout 2  | Loadout 3 | Loadout 4
       - Materials: Black | Olive Drab | Painted | Tan
+# 
+![Misc Items Banner](https://staticdelivery.nexusmods.com/mods/1151/images/87488/87488-1725804581-536973531.png)
 
-Miscellaneous Items
    - Mystery Ranch 3-Day Assault Backpack
       - Materials: Brown | Multicam
 
@@ -125,11 +135,10 @@ Miscellaneous Items
    - Arc'Teryx Assault FR Balaclava
       - Variants: Default | For Helmets | Tucked
       - Materials: Gray | Multicam | Multicam Arid | Multicam Black | Multicam Tropic
-
-# Credits
+# 
+![Credits Banner](https://staticdelivery.nexusmods.com/mods/1151/images/87488/87488-1725803749-1057171311.png)
 
 This mod was made possible by the contributions of:
-
    - [3DMA](https://www.3dmilitaryassets.com/)﻿ - Assets
    - [greavsie93](https://www.cgtrader.com/designers/greavsie93) - Assets
    - [Guy In Chechnya/Altyn Guy](https://next.nexusmods.com/profile/Sm4llD4gg3r/about-me?gameId=1151)﻿ - Bone Weighting
